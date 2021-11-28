@@ -1,4 +1,4 @@
-# GRIP-Task-Object-detection
+# Object-detection
 
 Deep learning based Object Detection using MobileNets and Single Shot Detector(SSD) trained on COCO dataset
 
